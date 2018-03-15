@@ -1,2 +1,2 @@
-# learn-fullstack-react
-React project with Node Web server,Mongo DB
+# learn-fullstack-javascript
+Learning Fullstack JavaScript Development: MongoDB, Node.js, React.js
